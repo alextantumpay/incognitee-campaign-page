@@ -15,7 +15,7 @@
 							Shielding your tokens means that you send them from Paseo to
 							Incognitee where you can then transfer them privately
 
-							<div>
+							<div class="m-10">
 								<NuxtLink
 									target="blank"
 									class="m-5 btn btn_gradient"
